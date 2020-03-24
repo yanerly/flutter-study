@@ -1,3 +1,7 @@
+// https://www.kancloud.cn/marswill/dark2_document/709092
+//git :https://blog.csdn.net/qq_40323256/article/details/92384334
+//flutter:https://flutterchina.club/tutorials/
+
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
 
